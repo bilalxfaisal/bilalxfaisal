@@ -27,8 +27,6 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px"/>
-
 ### `> whoami`
 
 ```yaml
@@ -36,7 +34,7 @@ name       : Muhammad Bilal Faisal
 alias      : bilalxfaisal
 university : FAST NUCES Islamabad
 semester   : 4th (done)
-status     : Hungry to build 🔥
+status     : Hungry to build 
 focus      : AI/ML · Full Stack · Software Dev
 contact    : bilal.faisal036@gmail.com
 ```
