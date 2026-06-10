@@ -21,7 +21,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&width=500&lines=AI%2FML+%7C+Full+Stack+%7C+Software+Dev;C%2B%2B+%7C+Python+%7C+Java+%7C+PHP+%7C+SQL;Always+learning.+Always+building.;FAST+NUCES+Islamabad+%E2%80%94+CS+%274th+Sem" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&width=500&lines=AI%2FML+%7C+Full+Stack+%7C+Software+Dev;C%2B%2B+%7C+Python+%7C+Java+%7C+PHP+%7C+SQL;Always+learning.+Always+building.;FAST+NUCES+Islamabad+%E2%80%94+CS+%272028" alt="Typing SVG" />
 
 </div>
 
