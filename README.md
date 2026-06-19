@@ -96,7 +96,7 @@ contact    : bilal.faisal036@gmail.com
 
 ### `> system --fetch-stats`
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=bilalxfaisal&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=7&card_width=750)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=bilalxfaisal&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&card_width=750)
 
 ---
 
