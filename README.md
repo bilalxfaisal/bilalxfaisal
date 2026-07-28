@@ -44,7 +44,7 @@ contact    : bilal.faisal036@gmail.com
 ```
 [*] Artificial Intelligence & Machine Learning
 [*] Full Stack Web Development
-[*] Desktop Application Development
+[*] Desktop and Mobile Application Development
 [*] Software Engineering & System Design
 ```
 
