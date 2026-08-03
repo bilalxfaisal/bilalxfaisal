@@ -114,7 +114,7 @@ contact    : bilal.faisal036@gmail.com
 
 <p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/──%20LinkedIn%20──-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-faisal-6b7b7b328)
+[![LinkedIn](https://img.shields.io/badge/──%20LinkedIn%20──-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-bilal-faisal-6b7b7b328/)
 [![Gmail](https://img.shields.io/badge/──%20Gmail%20──-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilal.faisal036@gmail.com)
 [![GitHub](https://img.shields.io/badge/──%20GitHub%20──-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bilalxfaisal)
 
