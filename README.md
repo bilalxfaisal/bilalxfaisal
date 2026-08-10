@@ -71,7 +71,7 @@ contact    : bilal.faisal036@gmail.com
 ![x86 Assembly](https://img.shields.io/badge/x86_Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 **// Frameworks & Libraries**
 
@@ -90,7 +90,7 @@ contact    : bilal.faisal036@gmail.com
 ![Lucide](https://img.shields.io/badge/Lucide-000000?style=for-the-badge&logo=lucide&logoColor=white)
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 **// Databases**
 
@@ -101,7 +101,7 @@ contact    : bilal.faisal036@gmail.com
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 **// Tools & Platforms**
 
